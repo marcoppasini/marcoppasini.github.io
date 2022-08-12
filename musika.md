@@ -8,28 +8,19 @@ layout: page
 {% include video source="youtube" id="QBl8y2Z_i7Y" %}
 
 # Musika! <br/> Fast Infinite Waveform Music Generation
-Accepted at [ISMIR 2022](https://ismir2022.ismir.net/)
-
-Find the paper [here](https://arxiv.org/)
-
+Accepted at [ISMIR 2022](https://ismir2022.ismir.net/)  
+Find the paper [here](https://arxiv.org/)  
 Find the code [here](https://github.com/marcoppasini/musika)
 
 <br/>
 
-__Marco Pasini__
-
-_Institute of Computational Perception, Johannes Kepler University Linz, Austria_
-
+__Marco Pasini__  
+_Institute of Computational Perception, Johannes Kepler University Linz, Austria_  
 _marco.pasini.98@gmail.com_
 
 
-<br/>
-
-
-__Jan Schlüter__
-
-_Institute of Computational Perception, Johannes Kepler University Linz, Austria_
-
+__Jan Schlüter__  
+_Institute of Computational Perception, Johannes Kepler University Linz, Austria_  
 _jan.schlueter@jku.at_
 
 <br/>
