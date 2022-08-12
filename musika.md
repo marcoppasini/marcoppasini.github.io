@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Musika
 ---
 
 <!-- ![Banner](logo.png) -->
