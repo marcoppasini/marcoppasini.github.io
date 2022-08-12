@@ -9,8 +9,8 @@ layout: page
 
 # Musika! <br/> Fast Infinite Waveform Music Generation
 Accepted at [ISMIR 2022](https://ismir2022.ismir.net/)  
-Find the paper [here](https://arxiv.org/)  
-Find the code [here](https://github.com/marcoppasini/musika)
+Find the __paper__ [here](https://arxiv.org/)  
+Find the __code__ [here](https://github.com/marcoppasini/musika)
 
 
 __Marco Pasini__  
