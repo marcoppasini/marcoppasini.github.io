@@ -13,7 +13,7 @@ Find the __paper__ [here](https://arxiv.org/)
 Find the __code__ [here](https://github.com/marcoppasini/musika)
 
 
-__Marco Pasini__  
+__Marco Pasini__ [[Twitter](https://twitter.com/marco_ppasini)]  
 _Institute of Computational Perception, Johannes Kepler University Linz, Austria_  
 _marco.pasini.98@gmail.com_
 
