@@ -9,6 +9,7 @@ layout: page
 
 # Musika! <br/> Fast Infinite Waveform Music Generation
 Accepted at [ISMIR 2022](https://ismir2022.ismir.net/)  
+An online demo is available on [Hugging Face Spaces](https://huggingface.co/spaces). Try it out [here](https://huggingface.co/spaces/marcop/musika)!  
 Find the __paper__ [here](https://arxiv.org/abs/2208.08706)  
 Find the __code__ [here](https://github.com/marcoppasini/musika)
 
